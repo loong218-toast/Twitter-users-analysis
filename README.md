@@ -6,6 +6,7 @@ https://app.powerbi.com/reportEmbed?reportId=ca1ea38c-f891-4ca6-828d-f830fb65abc
 ![image](https://user-images.githubusercontent.com/77558802/154854826-a8db1309-807c-46df-b308-184bf4ebc224.png)
 
 # Resources Used
+IDE : Google Colab <br />
 Website : http://www.twitterholic.com/top200/followers/ <br />
 Website 2 : https://en.wikipedia.org/wiki/List_of_most-followed_Twitter_accounts <br />
 Python : pandas, numpy, twint, nltk(with wordnet), wordcloud <br />
