@@ -1,8 +1,8 @@
 # Twitter-users-analysis
 A Twitter data analytics project 
 
+![Screenshot 2022-03-13 131245](https://user-images.githubusercontent.com/77558802/158046098-99873a2c-d37b-4546-a2ca-d5f015b4152d.png)
 
-![image](https://user-images.githubusercontent.com/77558802/154854826-a8db1309-807c-46df-b308-184bf4ebc224.png)
 
 # Resources Used
 IDE : Google Colab <br />
