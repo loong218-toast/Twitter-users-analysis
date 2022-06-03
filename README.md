@@ -8,7 +8,7 @@ A Twitter data analytics project
 IDE : Google Colab <br />
 Website : http://www.twitterholic.com/top200/followers/ <br />
 Website 2 : https://en.wikipedia.org/wiki/List_of_most-followed_Twitter_accounts <br />
-Python : pandas, numpy, twint, nltk(with wordnet), wordcloud <br />
+Python : Pandas, Numpy, Twint, NLTK(with Wordnet), Wordcloud <br />
 SQL : Sqlite3<br />
 Data visualization : Power BI
 
